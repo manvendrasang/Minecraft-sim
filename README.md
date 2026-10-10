@@ -1,3 +1,7 @@
+THIS REPO IS FREEZED, NO MORE UPDATES
+
+
+
 ## License
 
 Copyright © 2026 Manvendra Sang. All rights reserved.
